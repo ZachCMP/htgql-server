@@ -1,0 +1,16 @@
+{
+  "name": "htgql-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Technaesthetic/htgql-server.git",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "graphql-yoga": "^1.17.4",
+    "jsonwebtoken": "^8.5.0",
+    "prisma-client-lib": "^1.28.1"
+  },
+  "devDependencies": {
+    "@playlyfe/gql": "^2.6.1"
+  }
+}
